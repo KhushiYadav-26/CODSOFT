@@ -1,31 +1,33 @@
 CodSoft Virtual Internship – January 2026
 Python Programming Tasks
 
-This repository contains the Python programming tasks completed as part of the CodSoft Virtual Internship – January 2026.
-The objective of this internship was to strengthen core Python concepts through hands-on implementation of practical, problem-oriented applications.
+This repository contains the Python programming tasks completed during the CodSoft Virtual Internship – January 2026.
+The purpose of this internship was to develop practical programming skills using Python through structured, task-based learning.
 
-Intern Information
+1. Internship Information
 
 Internship Program: CodSoft Virtual Internship
 
 Domain: Python Programming
 
-Duration: January 2026
-
 Mode: Virtual
 
-Task Details
-Task 1: To-Do List Application
+Duration: January 2026
 
-A command-line based application designed to help users manage and organize daily tasks efficiently.
+Programming Language: Python
 
-Key Functionalities:
+2. Task Summary
+2.1 Task 1 – To-Do List Application
+
+A command-line based application that allows users to manage and organize daily tasks efficiently.
+
+Functional Requirements:
 
 Add new tasks
 
-View all tasks
+View all existing tasks
 
-Update existing tasks
+Update task details
 
 Mark tasks as completed
 
@@ -33,67 +35,67 @@ Delete tasks
 
 Menu-driven and user-friendly interface
 
-Task 2: Calculator
+2.2 Task 2 – Calculator
 
-A simple calculator program that performs basic arithmetic operations based on user input.
+A simple calculator program that performs basic arithmetic operations.
 
-Key Functionalities:
+Functional Requirements:
 
-Accepts two numerical inputs
+Accept two numerical inputs from the user
 
-Supports addition, subtraction, multiplication, and division
+Perform addition, subtraction, multiplication, and division
 
-Displays the calculated result
+Display the computed result
 
-Handles invalid input cases
+Handle invalid input cases
 
-Task 3: Password Generator
+2.3 Task 3 – Password Generator
 
-A Python application that generates strong and random passwords based on user-defined criteria.
+A Python application designed to generate strong and random passwords.
 
-Key Functionalities:
+Functional Requirements:
 
-User-defined password length
+Accept user-defined password length
 
-Uses a combination of letters, numbers, and special characters
+Generate passwords using letters, numbers, and special characters
 
-Generates secure and random passwords
+Ensure randomness and strength of passwords
 
-Displays the generated password
+Display the generated password
 
-Task 4: Rock-Paper-Scissors Game
+2.4 Task 4 – Rock-Paper-Scissors Game
 
 A command-line interactive game played between the user and the computer.
 
-Key Functionalities:
+Functional Requirements:
 
-User selects rock, paper, or scissors
+Accept user input (rock, paper, or scissors)
 
-Computer generates a random choice
+Generate a random choice for the computer
 
-Game logic determines the winner
+Apply game rules to determine the winner
 
-Displays results for each round
+Display user and computer choices
 
-Option to play multiple rounds
+Track scores across multiple rounds
 
-Score tracking for both user and computer
+Allow the user to replay the game
 
-Task 5: Contact Book
+2.5 Task 5 – Contact Book
 
-A comprehensive contact management application built using Python.
+A contact management system implemented using Python.
 
-Key Functionalities:
+Functional Requirements:
 
-Stores contact name, phone number, email, and address
+Store contact details (name, phone number, email, address)
 
-Phone number validation (10-digit numeric input)
+Validate phone numbers (10-digit numeric input)
 
-Email format validation
+Validate email format
 
 Add new contacts
 
-View saved contacts
+View all saved contacts
 
 Search contacts by name or phone number
 
@@ -101,39 +103,41 @@ Update existing contact details
 
 Delete contacts
 
-Handles duplicate names using unique phone numbers
+Handle duplicate names using unique phone numbers
 
 Clean and structured command-line interface
 
-Technologies Used
+3. Technologies Used
 
-Python
+Python (Core Python)
 
 Command Line Interface (CLI)
 
-Git and GitHub
+Git for version control
 
-Project Structure
-├── task1_todo_list.py
-├── task2_calculator.py
-├── task3_password_generator.py
-├── task4_rock_paper_scissors.py
-├── task5_contact_book.py
+GitHub for repository hosting
+
+4. Project Structure
+├── Task-1_to-do-list.py
+├── Task2_calculator.py
+├── Task3_passwordgen.py
+├── Task4_Game.py
+├── Task5_ContactBook.py
 └── README.md
 
-Learning Outcomes
+5. Learning Outcomes
 
-Strengthened understanding of Python fundamentals
+Improved understanding of Python fundamentals
 
-Improved logical thinking and problem-solving skills
+Enhanced logical thinking and problem-solving skills
 
-Practical experience with input validation and data handling
+Practical experience with user input validation
 
-Familiarity with building real-world command-line applications
+Ability to design menu-driven applications
 
-Experience using Git and GitHub for project version control
+Hands-on experience with Git and GitHub
 
-How to Execute
+6. Execution Instructions
 
 Clone the repository:
 
@@ -145,14 +149,16 @@ Navigate to the project directory:
 cd codsoft-python-internship
 
 
-Run the desired task:
+Execute any task file:
 
 python filename.py
 
-Acknowledgement
+7. Acknowledgement
 
-I would like to express my gratitude to CodSoft for providing this virtual internship opportunity and allowing me to enhance my Python programming skills through practical tasks.
+I would like to thank CodSoft for providing the opportunity to participate in the January 2026 virtual internship and for assigning practical Python programming tasks that enhanced my technical skills.
 
-Declaration
+8. Declaration
 
-All tasks in this repository were implemented as part of the CodSoft Virtual Internship and are intended solely for learning and evaluation purposes.
+All projects in this repository were developed as part of the CodSoft Virtual Internship – January 2026 and are intended for academic and learning purposes.
+
+
